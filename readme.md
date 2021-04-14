@@ -1,8 +1,8 @@
 <!--
  * @Author: Espero
  * @Date: 2021-04-13 22:55:43
- * @LastEditTime: 2021-04-13 23:24:09
- * @FilePath: /my_first_git_project/readme.md
+ * @LastEditTime: 2021-04-15 00:21:06
+ * @FilePath: /dbhot/readme.md
  * @Description: file contenth
 -->
 # Git操作
@@ -14,6 +14,8 @@
 ####  (2).绿色：git已经管理起来了，但是未生成一个版本  git commit -m "记录你的版本描述信息"
 
 ### 3.查看版本信息 git log
+
+### 4.版本回滚 git reset --hard 'commit'【通过git log得到】
 
 
 # 其他 
